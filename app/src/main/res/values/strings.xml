@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Architecture Components</string>
+    <string name="submit">Submit</string>
+    <string name="enterText">Enter your text</string>
+</resources>
